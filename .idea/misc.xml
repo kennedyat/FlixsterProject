@@ -3,8 +3,14 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/ktpen/AndroidStudioProjects/Flixster/app/src/main/res/layout-land/activity_orientation.xml" value="0.1" />
+        <entry key="..\:/Users/ktpen/AndroidStudioProjects/Flixster/app/src/main/res/layout-land/item_movie.xml" value="0.1" />
+        <entry key="..\:/Users/ktpen/AndroidStudioProjects/Flixster/app/src/main/res/layout-land/item_orientation.xml" value="0.18" />
+        <entry key="..\:/Users/ktpen/AndroidStudioProjects/Flixster/app/src/main/res/layout-land2/item_movie.xml" value="0.1" />
         <entry key="..\:/Users/ktpen/AndroidStudioProjects/Flixster/app/src/main/res/layout/activity_main.xml" value="0.2041025641025641" />
+        <entry key="..\:/Users/ktpen/AndroidStudioProjects/Flixster/app/src/main/res/layout/activity_orientation.xml" value="0.1" />
         <entry key="..\:/Users/ktpen/AndroidStudioProjects/Flixster/app/src/main/res/layout/item_movie.xml" value="0.25" />
+        <entry key="..\:/Users/ktpen/AndroidStudioProjects/Flixster/app/src/main/res/layout/orientation.xml" value="0.1" />
       </map>
     </option>
   </component>
