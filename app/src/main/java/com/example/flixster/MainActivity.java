@@ -21,6 +21,8 @@ import adapters.MovieAdapter;
 import models.Movie;
 import okhttp3.Headers;
 
+import androidx.appcompat.app.ActionBar;
+
 public class MainActivity extends AppCompatActivity {
 
     public static final String NOW_PLAYING_URL ="https://api.themoviedb.org/3/movie/now_playing?api_key=a07e22bc18f5cb106bfe4cc1f83ad8ed";
@@ -63,6 +65,11 @@ public class MainActivity extends AppCompatActivity {
             }
 
         });
+
+        getSupportActionBar().setDisplayOptions(ActionBar.DISPLAY_SHOW_CUSTOM);
+        getSupportActionBar().setCustomView(R.layout.actionbar_flixster);
+
+
     }
 
 
