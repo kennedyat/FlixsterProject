@@ -26,8 +26,7 @@
 <img src="YOUR_GIF_URL_HERE" width=250><br>
 
 ### Notes
-
-Describe any challenges encountered while building the app.
+Flixtser Part 2 was very straight-foward and simple and easy to follow.
 
 ## Open-source libraries used
 - [Android Async HTTP](https://github.com/codepath/CPAsyncHttpClient) - Simple asynchronous HTTP requests with JSON parsing
